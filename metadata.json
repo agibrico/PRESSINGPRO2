@@ -1,0 +1,7 @@
+{
+  "name": "MON PRESSING PRO - SaaS B2B Multi-Entreprises",
+  "description": "Plateforme SaaS B2B multi-entreprises de gestion complète de pressings, blanchisseries et entretien textile adaptée au marché ivoirien (FCFA, Wave, Orange, MTN, Moov, Caisse, RBAC & Multi-agences).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
